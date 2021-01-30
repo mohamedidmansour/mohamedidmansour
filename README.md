@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/mohamedidmansour/mohamedidmansour">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedidmansour&hide=css,html&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedidmansour&hide=css,html&theme=prussian" />
 </a>
 <a href="https://github.com/mohamedidmansour/mohamedidmansour">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedidmansour&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="MOHAMED IDMANSOUR's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedidmansour&show_icons=true&line_height=27&count_private=true&theme=prussian" alt="MOHAMED IDMANSOUR's GitHub Stats" />
 </a>
