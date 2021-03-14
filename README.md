@@ -15,4 +15,4 @@
 <a href="https://github.com/mohamedidmansour/mohamedidmansour">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedidmansour&show_icons=true&line_height=27&count_private=true&theme=prussian" alt="MOHAMED IDMANSOUR's GitHub Stats" />
 </a>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohamedidmansour)  
+<p>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohamedidmansour)</p>
