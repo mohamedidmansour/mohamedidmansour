@@ -15,4 +15,3 @@
 <a href="https://github.com/mohamedidmansour/mohamedidmansour">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedidmansour&show_icons=true&line_height=27&count_private=true&theme=prussian" alt="MOHAMED IDMANSOUR's GitHub Stats" />
 </a>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=mohamedidmansour&theme=prussian" alt="not found!!!"/></p>
