@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed IDMANSOUR</h1>
 <h3 align="center">A Software Engineer Java EE/Angular | Machine Learning // Big Data</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedidmansour" alt="mohamedidmansour" /></a> </p>
-
 - 🔭 I’m currently working on **on a project for an enterprise international**
 
 - 🌱 I’m currently learning **Swift, Big Data....**
