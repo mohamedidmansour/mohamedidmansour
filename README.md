@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed IDMANSOUR</h1>
-<h3 align="center">A Software Engineer Java EE/Angular | Machine Learning // Big Data</h3>
+<h3 align="center">A Software Engineer Java EE/Angular | Machine Learning and Big Data</h3>
 
 - 🔭 I’m currently working on **on a project for an enterprise international**
 
