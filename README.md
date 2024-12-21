@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed IDMANSOUR</h1>
-<h3 align="center">A Software Engineer Java EE/Angular | Machine Learning and Big Data</h3>
-
-- 🔭 I’m currently working on **on a project for an enterprise international**
-
-- 🌱 I’m currently learning **Swift, Big Data....**
-
-- 👯 I’m looking to collaborate on **a project freelance**
-
-- 🤝 I’m looking for help with **finding an idea using Machine Learning...**
+<h3 align="center">A Software Engineer Java/Angular</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedidmansour](https://github.com/mohamedidmansour)
 
